@@ -1,1 +1,1 @@
-# Thelia_ML
+# Thelia.ai
